@@ -1,8 +1,5 @@
----
-title: Debshila Basu Mallick
-layout: post
----
-# 
+# Debshila Basu Mallick
+
 Hello, I am Debshila. I am a researcher at an educational non-profit. 
 
 You can use the [editor on GitHub](https://github.com/debshila/debshila.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
