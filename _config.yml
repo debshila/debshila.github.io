@@ -1,5 +1,3 @@
 theme: jekyll-theme-minimal
 font-family: 'Avenir'
 css: style.css
-author: "Debshila Basu Mallick"
-date: '`r format(Sys.time(), "%B %d, %Y")`'
