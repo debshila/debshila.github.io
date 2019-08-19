@@ -1,4 +1,4 @@
-# Data, dance and, dogs (not always in that order)
+# Data, dance, and dogs (not always in that order)
 
 Hi, I am Debshila. I am a researcher at OpenStax, an educational non-profit affiliated with Rice University, Houston, TX, USA. My role here involves working with multimodal educational data from institutions all over the United States. Most of my work is done using the [R suit of tools](https://www.r-project.org/). But I have also done some work with [Python](https://www.python.org/). Give my work profile, I often like to think of myself as Data Jan-Itor.
 
