@@ -1,4 +1,7 @@
-/* Changes all fonts to avenir*/
+---
+---
+
+@import "{{ site.theme }}";
 
 body {
 	font-family: Avenir;

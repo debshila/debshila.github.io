@@ -1,39 +1,26 @@
-# Debshila Basu Mallick
+# Hello!
 
-Hello, I am Debshila. I am a researcher at an educational non-profit. 
+Hi, I am Debshila. I am a researcher at OpenStax, an educational non-profit affiliated with Rice University, Houston, TX, USA. 
 
-You can use the [editor on GitHub](https://github.com/debshila/debshila.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below are some of the data analysis and machine learning projects that I have been working on outside my work.
 
-### Markdown
+## Exploring Houston Restaurant Weeks
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you are a foodie in Houston, TX, then you look forward to this time of the year for the Houston Restaurant Weeks (HRW). A number of local restaurants come together to offer special menus and donate a part of each customer served to the Houston Food Bank. While this is a wonderful initiative, the information displayed on their website makes it difficult to search through. The overarching goal of this project is to aid HRW enthusiasts while they decide on which restaurants they want to visit this year.
 
-```markdown
-Syntax highlighted code block
+Checkout the app: 
+Code: [HRW Github Repo](https://github.com/debshila/exploring-houston-restaurant-weeks)
 
-# Header 1
-## Header 2
-### Header 3
+## Gist do it! (Multilevel text summarizer)
 
-- Bulleted
-- List
+People rarely read privacy policy documents. However, with the recent privacy breaches and GDPR coming into effect, individuals are recognizing the need to examine privacy policies that they previously blindly trusted. To facilitate examination of privacy policies, this web app basically generates summaries for privacy policy documents by selecting the most important sentences from these documents. The app leverages the textrank algorithm as implemented by the gensim package (https://radimrehurek.com/gensim/summarization/summariser.html).
 
-1. Numbered
-2. List
+In addition, the app displays the results of an Latent Dirichlet Allocation (LDA) based topic model (https://radimrehurek.com/gensim/models/ldamodel.html) trained on > 1000 privacy policy documents (https://usableprivacy.org/data), visualized using the pyLDAvis LDA visualizer (https://pyldavis.readthedocs.io/en/latest/readme.html#usage). This interactive illustration basically displays the underlying themes in privacy policy documents grouped into topics, the relationship amongst these topics (spatial proximity of the topics), and the top keywords from the topics.
 
-**Bold** and _Italic_ and `Code` text
+- Checkout the app: [Gist do it!](http://gist-do-it.herokuapp.com)
+- Code
+    - [Gist do it App Repo](https://github.com/debshila/gist-do-it)
+    - [Text-summarization Repo](https://github.com/debshila/multilevel-text-summarization)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/debshila/debshila.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
