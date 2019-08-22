@@ -3,7 +3,8 @@ title: "Debshila Basu Mallick, Ph.D."
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
-    vertical_layout: fill
+    vertical_layout: scroll
+fontsize: 14
 ---
 
 ```{r setup, include=FALSE}
