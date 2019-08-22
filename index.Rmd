@@ -1,5 +1,6 @@
 ---
-title: "Flex page"
+title: "Debshila Basu Mallick,Ph.D."
+description: "Data, dance, and dogs, not necessarily in that order"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
