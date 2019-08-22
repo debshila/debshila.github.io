@@ -774,15 +774,6 @@ body {
   font-weight: 500;
 }
 
-@media only screen and (min-width: 768px) {
-html, body {
-  height: 100%;
-}
-
-#dashboard-container {
-  height: 100%;
-}
-}
 </style>
 
 
@@ -2661,7 +2652,7 @@ $(document).ready(function () {
 $(document).ready(function () {
   FlexDashboard.init({
     theme: "cosmo",
-    fillPage: true,
+    fillPage: false,
     orientation: "rows",
     storyboard: false,
     defaultFigWidth: 576,
